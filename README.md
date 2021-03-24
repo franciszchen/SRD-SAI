@@ -1,5 +1,9 @@
 # SRD-SAI
 
+This repository is an official PyTorch implementation of the paper **"Super-Resolution Enhanced Medical Image Diagnosis with Sample Affinity Interaction"** [[paper](https://www.researchgate.net/publication/348851387_Super-Resolution_Enhanced_Medical_Image_Diagnosis_with_Sample_Affinity_Interaction)] from **TMI 2021**.
+
+<div align=center><img width="700" src=/figs/framework.png></div>
+
 ## Cite
 If you find our work useful in your research or publication, please cite our work:
 ```
